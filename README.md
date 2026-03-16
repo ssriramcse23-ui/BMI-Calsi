@@ -1,3 +1,2 @@
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([(https://github.com/ssriramcse23-ui/BMI-Calsi/blob/main/sample.png)])
+![Sample Image](https://raw.githubusercontent.com/ssriramcse23-ui/BMI-Calsi/main/sample.png)
 
